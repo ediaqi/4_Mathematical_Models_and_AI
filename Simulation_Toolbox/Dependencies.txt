@@ -1,0 +1,22 @@
+-----
+Pachage             NA
+catboost            1.2
+geopandas           0.13.2
+numpy               1.23.5
+osmnx               1.5.1
+pandas              2.0.0
+session_info        1.0.0
+-----
+
+Click to view modules imported as dependencies
+
+-----
+IPython             8.14.0
+jupyter_client      8.3.0
+jupyter_core        5.3.1
+jupyterlab          4.0.3
+-----
+Python 3.11.0 | packaged by conda-forge | (main, Oct 25 2022, 06:12:32) [MSC v.1929 64 bit (AMD64)]
+Windows-10-10.0.22621-SP0
+-----
+Session information updated at 2023-07-31 14:09
